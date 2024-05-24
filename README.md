@@ -27,3 +27,5 @@
 | Nixtla       | [doc](https://nixtlaverse.nixtla.io/)   | [code](https://github.com/Nixtla)          |
 |TSlib|doc|[code](https://github.com/thuml/Time-Series-Library)|
 
+
+[分工文档](https://docs.qq.com/doc/DUUR1SWloWmVDbGlT?u=d1ce0b8b2f8742b9a483cbcb35957816)
